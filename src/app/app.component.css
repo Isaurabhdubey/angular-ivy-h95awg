@@ -18,3 +18,9 @@ li a {
   background-color: #dddddd;
   text-decoration: none;
 }
+.main {
+  padding: 10px;
+  margin: 10px 0px;
+  background-color: black;
+  height: auto;
+}
